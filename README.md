@@ -1,3 +1,3 @@
 # settheory.js
 
-final fantasy i engine jRPG generic freebsd kernel
+final fantasy zero_one (i) engine jRPG generic freebsd kernel
