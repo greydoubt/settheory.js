@@ -2,6 +2,12 @@
 
 final fantasy zero_one (i) engine jRPG generic freebsd kernel
 
+After the method to obtain the distribution sets has been chosen, and (if applicable) after those sets have been transferred, they will be extracted into the new NetBSD file system.
+
+A message (see Figure 3.30, “Extraction of sets completed”) will let you know that the set extraction is now completed and that you have the opportunity to perform some essential configuration before finishing the NetBSD installation.
+
+<img width="1077" height="598" alt="Screenshot 2026-04-25 at 23 05 32" src="https://github.com/user-attachments/assets/0ecda6b9-8cde-4b91-a1fe-8545e6c67566" />
+
 ```ruby
 
 int mode = MIDI_MODE_TRADITIONAL; // or TIMED / ALTERNATIVE
